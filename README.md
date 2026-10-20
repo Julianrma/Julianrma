@@ -45,4 +45,8 @@ Aplicación web con portal de clientes y administración para un spa.
 
 <p align="center">Construir · Aprender · Mejorar</p>
 
+## Contacto
 
+[![Escríbeme por WhatsApp](https://img.shields.io/badge/WhatsApp-Contactar-8B5CF6?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/593978653605)
+
+**Teléfono:** +593 97 865 3605
