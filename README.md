@@ -1,6 +1,6 @@
 ![Julián Revelo · Desarrollo de Software](banner.svg)
 
-<p align="center"><a href="https://github.com/Julianrma/sistema-spaa">Explorar mi proyecto principal</a> · <a href="https://github.com/Julianrma?tab=repositories">Ver repositorios</a></p>
+<p align="center"><a href="https://github.com/Julianrma/moon-beauty-cosmetic">Explorar mi proyecto principal</a> · <a href="https://github.com/Julianrma?tab=repositories">Ver repositorios</a></p>
 
 ## Hola, soy Julián
 
@@ -8,7 +8,26 @@ Soy estudiante de **Desarrollo de Software**, con enfoque **full stack**. Desarr
 
 Trabajo con **Java, Spring Boot, JavaScript y PostgreSQL**, integrando frontend, backend y persistencia de datos. En mis proyectos aplico arquitectura por capas, seguridad, pruebas y documentación.
 
-## Proyecto destacado
+## Proyecto principal
+
+### Moon Beauty Cosmetic · Web en producción
+
+[![Moon Beauty Cosmetic — tienda publicada](https://raw.githubusercontent.com/Julianrma/moon-beauty-cosmetic/main/docs/images/storefront.png)](https://moonbeautyec.com/)
+
+Soy el **creador y desarrollador web de Moon Beauty Cosmetic**, una web para una tienda real de maquillaje y skincare en Ecuador.
+
+- Catálogo adaptable a celulares, búsqueda, filtros, tonos y favoritos.
+- Fichas de producto, recomendaciones y bolsa persistente con solicitudes por WhatsApp.
+- Administrador en la nube para productos, precios y fotografías, protegido con identidad y MFA.
+- Persistencia con Durable Objects y SQLite, pruebas automatizadas y documentación.
+
+**HTML · CSS · JavaScript · Cloudflare Workers · Durable Objects · SQLite · Cloudflare Access**
+
+[Visitar moonbeautyec.com](https://moonbeautyec.com/) · [Código y caso de estudio](https://github.com/Julianrma/moon-beauty-cosmetic)
+
+La venta actual se coordina por WhatsApp. El módulo de compras por transferencia/Deuna permanece en desarrollo y pruebas locales.
+
+## También en mi portafolio
 
 ### SpaMoonBeauty · Gestión y reservas
 
@@ -25,16 +44,13 @@ Aplicación web con portal de clientes y administración para un spa.
 
 [Ver código, capturas y cómo ejecutarlo →](https://github.com/Julianrma/sistema-spaa)
 
-## En mi taller
-
-**Moon Beauty Cosmetic** — Catálogo de cosméticos con filtros, selección de tonos, cantidades y bolsa. El catálogo estático y la etapa de compras en desarrollo se mantienen separados.
-
 ## Tecnologías en mis proyectos
 
 | Backend y datos | Interfaces | Herramientas y calidad |
 | --- | --- | --- |
 | Java · Spring Boot | HTML · CSS · JavaScript | Git · GitHub · Maven |
 | PostgreSQL · JPA · Hibernate | Thymeleaf | JUnit · Spring Security |
+| Cloudflare Workers · Durable Objects · SQLite | Diseño adaptable | Wrangler · node:test · Cloudflare Access |
 
 ## Primeros proyectos
 
