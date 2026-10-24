@@ -1,6 +1,6 @@
 ![Julián Revelo · Desarrollo de Software](banner.svg)
 
-<p align="center"><a href="https://github.com/Julianrma/moon-beauty-cosmetic">Explorar mi proyecto principal</a> · <a href="https://github.com/Julianrma?tab=repositories">Ver repositorios</a></p>
+<p align="center"><a href="https://moonbeautyec.com/">Explorar mi proyecto principal</a> · <a href="https://github.com/Julianrma?tab=repositories">Ver repositorios</a></p>
 
 ## Hola, soy Julián
 
@@ -12,7 +12,7 @@ Trabajo con **Java, Spring Boot, JavaScript y PostgreSQL**, integrando frontend,
 
 ### Moon Beauty Cosmetic · Web en producción
 
-[![Moon Beauty Cosmetic — tienda publicada](https://raw.githubusercontent.com/Julianrma/moon-beauty-cosmetic/main/docs/images/storefront.png)](https://moonbeautyec.com/)
+[![Moon Beauty Cosmetic — tienda publicada](moon-beauty-cosmetic.png)](https://moonbeautyec.com/)
 
 Soy el **creador y desarrollador web de Moon Beauty Cosmetic**, una web para una tienda real de maquillaje y skincare en Ecuador.
 
@@ -23,7 +23,7 @@ Soy el **creador y desarrollador web de Moon Beauty Cosmetic**, una web para una
 
 **HTML · CSS · JavaScript · Cloudflare Workers · Durable Objects · SQLite · Cloudflare Access**
 
-[Visitar moonbeautyec.com](https://moonbeautyec.com/) · [Código y caso de estudio](https://github.com/Julianrma/moon-beauty-cosmetic)
+[Visitar moonbeautyec.com](https://moonbeautyec.com/)
 
 La venta actual se coordina por WhatsApp. El módulo de compras por transferencia/Deuna permanece en desarrollo y pruebas locales.
 
